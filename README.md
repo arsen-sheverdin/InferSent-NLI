@@ -37,5 +37,5 @@ Models are estimated on the set of transfer tasks in terms of accuracy
 Learning curves and adaptive learning rates:
 
 <p float="center">
-<img width="205" src="media/Accuracies.png" />  <img width="195" src="media/Learning_rates.png" />
+<img width="405" src="media/Accuracies.png" />  <img width="395" src="media/Learning_rates.png" />
 </p>
